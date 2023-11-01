@@ -1,0 +1,5 @@
+#¿Qué es mi producto y para que sirve?
+Es un servidor Express que sirve para solicitudes con parametros dinamicos que ayudara al cliente a realizar diferentes solicitudes y saber el estado o descripción una lista de tareas especificas segun su  id en cual podrá acceder por parametros dinámicos.
+
+#¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
+ las funcionalidades que posee este servidor funcional en la cual consta de una aplicacion app.js que esta enlazada con dos archivos uno llamado lis-edit-router en la que le permitirar al usuario hacer diferentes solicitudes como crear, eliminar y actualizar con parametros dinámicos que le ayudará buscar por medio del id referente a la tarea especfica y el segundo le permitira al cliente ver y buscar por medio del id cuales tareas estan completas o incompletas.
